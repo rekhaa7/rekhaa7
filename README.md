@@ -22,12 +22,6 @@ I focus on building clean, high-quality datasets and applying ML models to drive
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rekhaa7&show_icons=true&theme=radical)
-
----
-
 
 ### 🔬 Featured Data Projects
 | Project | Description | Skills |

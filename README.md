@@ -8,6 +8,14 @@ that support community and environmental impact.
 
 ---
 
+**🔭 Currently:** Working on CareMuch – an AI-powered operations platform for home care agencies.
+**Focus Areas**
+- Intelligent caregiver-client matching
+- Shift optimization & automated scheduling
+- Caregiver recruitment & onboarding
+
+---
+
 ### 🧠 Skills & Tools
 - **Programming:** Python, R, SQL, SAS
 - **Data Analysis:** Pandas, NumPy, Excel, Seaborn, Matplotlib, Power BI , Looker Studio

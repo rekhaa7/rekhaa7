@@ -1,10 +1,8 @@
 # Hi, I'm Rekha Shrestha 👋  
 📍 Kalamazoo, Michigan | 📊 Data Science | 🌱 Data for Social Good
 
-I am a Data Science graduate student at Western Michigan University with experience in  
-data management, machine learning, and real-world problem solving.  
-I focus on building clean, high-quality datasets and applying ML models to drive insights  
-that support community and environmental impact.
+I am a Data Science graduate student at Western Michigan University with experience in  data management, machine learning, and real-world problem solving.  
+I focus on building clean, high-quality datasets and applying ML models to drive insights  that support community and environmental impact.
 
 ---
 

@@ -6,7 +6,11 @@ I focus on building clean, high-quality datasets and applying ML models to drive
 
 ---
 
-**🔭 Currently:** Working on CareMuch – an AI-powered operations platform for home care agencies.
+**🔭 Currently:** 
+- Working on my portfolio.
+  
+- Working on CareMuch – an AI-powered operations platform for home care agencies.
+  
 **Focus Areas**
 - Intelligent caregiver-client matching
 - Shift optimization & automated scheduling
